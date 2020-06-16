@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commons-tool" />
+        <module name="commons-lock" />
+        <module name="commons-core" />
+        <module name="commons-mq" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commons-core" target="1.8" />
+      <module name="commons-lock" target="1.8" />
+      <module name="commons-mq" target="1.8" />
+      <module name="commons-tool" target="1.8" />
+      <module name="jmall-commons" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

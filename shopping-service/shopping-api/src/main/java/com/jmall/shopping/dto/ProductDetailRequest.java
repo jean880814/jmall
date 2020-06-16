@@ -1,0 +1,19 @@
+package com.jmall.shopping.dto;
+
+import com.jmall.commons.result.AbstractRequest;
+import com.jmall.commons.tool.exception.ValidateException;
+import com.jmall.shopping.constants.ShoppingRetCode;
+import lombok.Data;
+
+@Data
+public class ProductDetailRequest extends AbstractRequest {
+
+    private Long id;
+
+    @Override
+    public void requestCheck() {
+        if(id==null){
+            throw new ValidateException(ShoppingRetCode.REQUISITE_PARAMETER_NOT_EXIST.getCode(),ShoppingRetCode.REQUISITE_PARAMETER_NOT_EXIST.getMessage());
+        }
+    }
+}

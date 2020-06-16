@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: test
+  application:
+    name: jmall-user-services-provider
+mybatis:
+  mapper-locations: classpath*:com/jmall/user/dal/persistence/*Mapper.xml"
+  type-aliases-package: com.jmall.user.dal.entitys
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql

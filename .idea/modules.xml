@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comment-service/comment-api/comment-api.iml" filepath="$PROJECT_DIR$/comment-service/comment-api/comment-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comment-service/comment-provider/comment-provider.iml" filepath="$PROJECT_DIR$/comment-service/comment-provider/comment-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comment-service/comment-service.iml" filepath="$PROJECT_DIR$/comment-service/comment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-commons/commons-core/commons-core.iml" filepath="$PROJECT_DIR$/jmall-commons/commons-core/commons-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-commons/commons-lock/commons-lock.iml" filepath="$PROJECT_DIR$/jmall-commons/commons-lock/commons-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-commons/commons-mq/commons-mq.iml" filepath="$PROJECT_DIR$/jmall-commons/commons-mq/commons-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-commons/commons-tool/commons-tool.iml" filepath="$PROJECT_DIR$/jmall-commons/commons-tool/commons-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupon-service/coupon-api/coupon-api.iml" filepath="$PROJECT_DIR$/coupon-service/coupon-api/coupon-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupon-service/coupon-provider/coupon-provider.iml" filepath="$PROJECT_DIR$/coupon-service/coupon-provider/coupon-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupon-service/coupon-service.iml" filepath="$PROJECT_DIR$/coupon-service/coupon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jmall.iml" filepath="$PROJECT_DIR$/.idea/jmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-cashier/jmall-cashier.iml" filepath="$PROJECT_DIR$/jmall-cashier/jmall-cashier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-commons/jmall-commons.iml" filepath="$PROJECT_DIR$/jmall-commons/jmall-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-parent/jmall-parent.iml" filepath="$PROJECT_DIR$/jmall-parent/jmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-shopping/jmall-shopping.iml" filepath="$PROJECT_DIR$/jmall-shopping/jmall-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmall-user/jmall-user.iml" filepath="$PROJECT_DIR$/jmall-user/jmall-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/market-service/market-api/market-api.iml" filepath="$PROJECT_DIR$/market-service/market-api/market-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/market-service/market-provider/market-provider.iml" filepath="$PROJECT_DIR$/market-service/market-provider/market-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/market-service/market-service.iml" filepath="$PROJECT_DIR$/market-service/market-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-services/order-api/order-api.iml" filepath="$PROJECT_DIR$/order-services/order-api/order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-services/order-provider/order-provider.iml" filepath="$PROJECT_DIR$/order-services/order-provider/order-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-services/order-services.iml" filepath="$PROJECT_DIR$/order-services/order-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-service/pay-api/pay-api.iml" filepath="$PROJECT_DIR$/pay-service/pay-api/pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-service/pay-provider/pay-provider.iml" filepath="$PROJECT_DIR$/pay-service/pay-provider/pay-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-service/pay-service.iml" filepath="$PROJECT_DIR$/pay-service/pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-service/search-api/search-api.iml" filepath="$PROJECT_DIR$/search-service/search-api/search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-service/search-provider/search-provider.iml" filepath="$PROJECT_DIR$/search-service/search-provider/search-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-service/search-service.iml" filepath="$PROJECT_DIR$/search-service/search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-service/shopping-api/shopping-api.iml" filepath="$PROJECT_DIR$/shopping-service/shopping-api/shopping-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-service/shopping-provider/shopping-provider.iml" filepath="$PROJECT_DIR$/shopping-service/shopping-provider/shopping-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-service/shopping-service.iml" filepath="$PROJECT_DIR$/shopping-service/shopping-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-api/user-api.iml" filepath="$PROJECT_DIR$/user-service/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-provider/user-provider.iml" filepath="$PROJECT_DIR$/user-service/user-provider/user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-sdk/user-sdk.iml" filepath="$PROJECT_DIR$/user-service/user-sdk/user-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

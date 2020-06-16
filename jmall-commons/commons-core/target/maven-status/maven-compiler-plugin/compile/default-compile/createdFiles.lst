@@ -1,0 +1,4 @@
+com\jmall\commons\result\ResponseData.class
+com\jmall\commons\result\AbstractRequest.class
+com\jmall\commons\result\ResponseUtil.class
+com\jmall\commons\result\AbstractResponse.class

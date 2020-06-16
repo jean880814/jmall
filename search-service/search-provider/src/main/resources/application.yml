@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: jmall-search-services-provider
+
+mybatis:
+  mapper-locations: classpath*:com/jmall/search/dal/persistence/*Mapper.xml"
+  type-aliases-package: com.jmall.search.dal.entitys
+
+

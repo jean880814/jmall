@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+  application:
+      name: jmall-order-services-provider
+mybatis:
+  mapper-locations: classpath*:com/jmall/order/dal/persistence/*Mapper.xml"
+  type-aliases-package: com.jmall.order.dal.entitys

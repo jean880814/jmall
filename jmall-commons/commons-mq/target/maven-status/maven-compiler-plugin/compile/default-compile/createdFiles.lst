@@ -1,0 +1,2 @@
+com\jmall\commons\mq\config\RabbitMqConfig.class
+com\jmall\commons\mq\producer\RabbitMessageProducer.class

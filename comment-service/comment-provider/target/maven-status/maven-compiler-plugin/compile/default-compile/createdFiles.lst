@@ -1,0 +1,16 @@
+com\jmall\comment\dal\entitys\Comment.class
+com\jmall\comment\dal\entitys\CommentReply.class
+com\jmall\comment\service\CommentServiceImpl.class
+com\jmall\comment\dal\persistence\CommentPictureMapper.class
+com\jmall\comment\config\DruidConfig.class
+com\jmall\comment\bootstrap\CommentProviderApplication.class
+com\jmall\comment\service\CommentReplyServiceImpl.class
+com\jmall\comment\CommentException.class
+com\jmall\comment\utils\GlobalIdGeneratorUtil.class
+com\jmall\comment\utils\ExceptionProcessorUtil.class
+com\jmall\comment\dal\persistence\CommentReplyMapper.class
+com\jmall\comment\utils\SensitiveWordsUtil.class
+com\jmall\comment\convert\CommentConverterImpl.class
+com\jmall\comment\dal\persistence\CommentMapper.class
+com\jmall\comment\convert\CommentConverter.class
+com\jmall\comment\dal\entitys\CommentPicture.class

@@ -1,0 +1,20 @@
+swagger:
+  enable: true
+
+dubbo:
+  cloud:
+    #    subscribed-services: jmall-user-services-provider,jmall-shopping-services-provider,jmall-comment-services-provider,jmall-search-services-provider
+    subscribed-services: jmall-user-services-provider,jmall-shopping-services-provider,jmall-comment-services-provider
+  scan:
+    base-packages: com.jmall.shopping
+
+spring:
+  cloud:
+    nacos:
+      username: nacos
+      password: nacos
+      discovery:
+        enabled: true
+        register-enabled: true
+        server-addr: nacos.jmall.com:8848
+        group: JMALL

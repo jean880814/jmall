@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: jmall-shopping-services-provider
+mybatis:
+  mapper-locations: classpath*:com/jmall/shopping/dal/persistence/*Mapper.xml"
+  type-aliases-package: com.jmall.shopping.dal.entitys
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql
