@@ -31,7 +31,7 @@
         <javax.mail.version>1.6.2</javax.mail.version>
         <swagger-starter.version>1.8.0.RELEASE</swagger-starter.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
-        <hibernate-validator.version>6.1.0.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.1.5.Final</hibernate-validator.version>
        <!-- Apache Dubbo -->
         <dubbo.version>2.7.6</dubbo.version>
     </properties>
